@@ -1,16 +1,18 @@
-# building_conversational_ai
 
-A new Flutter project.
+# Building Conversational Ai
+Chat GPT Application with Flutter that can run on multiple platforms.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+1. Clone Project:
+Clone the project from this link: https://github.com/tinhgom007/building_conversational_ai.git
 
-A few resources to get you started if this is your first Flutter project:
+2. Change API KEY:
+Change the "OPENAI_API_KEY" from lib/consts.dart into your API KEY
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Install required packages:
+Open the terminal and type the following command to install all pakages:
+```bash 
+flutter pub get
+```
+  
